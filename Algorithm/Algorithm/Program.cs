@@ -7,8 +7,9 @@ namespace AlgorithmProblem
 
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Algorithm Problem");
-            Anagrams.FindAnagram();
+            Console.WriteLine("Welcome to PrimeNumber Problem");
+
+            PrimeNumber.Prime();
 
         }
     }
