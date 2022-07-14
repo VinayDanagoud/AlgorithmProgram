@@ -7,9 +7,8 @@ namespace AlgorithmProblem
 
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to BubbleSort Problem");
-
-            BubbleSort.Bubble();
+            Console.WriteLine("Welcome to Algorithm Problem");
+            Anagrams.FindAnagram();
 
         }
     }
